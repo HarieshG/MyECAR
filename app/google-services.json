@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376119517912",
+    "firebase_url": "https://myecar-e052b.firebaseio.com",
+    "project_id": "myecar-e052b",
+    "storage_bucket": "myecar-e052b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376119517912:android:9a86f85896fa073c70adad",
+        "android_client_info": {
+          "package_name": "com.hariesh.acer.mye_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376119517912-bfas8bslq2ko66249qlc5hi6cbbqgek9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hariesh.acer.mye_car",
+            "certificate_hash": "bdc55c2b17c00c9ecb96eb4c4be5493ea7a9416d"
+          }
+        },
+        {
+          "client_id": "376119517912-i28mfgedb0tmnob5kgla0sa634bjmum4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDMfHTcrbLTr9RMDtTfVRAQ6SEE-LrOxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376119517912-i28mfgedb0tmnob5kgla0sa634bjmum4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
